@@ -30,7 +30,7 @@ The objective is to design a controller K that satisfies the control specificati
 
 ## Resullts
 <p float="center">
-  <img src="https://github.com/Hussain7252/Hinf_fuelinjection_control/blob/main/Media/step_response_at_0.png" height="300" width="100" />
+  <img src="https://github.com/Hussain7252/Hinf_fuelinjection_control/blob/main/Media/step_response_at_0.png" height="300" width="300" />
   <img src="https://github.com/Hussain7252/Hinf_fuelinjection_control/blob/main/Media/step_response_at_25.png" height="300" width="300" />
   <img src="https://github.com/Hussain7252/Hinf_fuelinjection_control/blob/main/Media/step_response_at_60.png" height="300" width="300" />
 </p>
