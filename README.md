@@ -1,5 +1,5 @@
 
-# H-Infinty Automotive Diesel Engine Fuel Injector Control
+# H-Infinity Automotive Diesel Engine Fuel Injector Control
 
 Designed a controller for a diesel fuel injection system that experiences large parameter changes because of fluctuations in fuel velocity due to temperature changes.
 
